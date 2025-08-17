@@ -1,0 +1,4 @@
+RMSE: 3.40
+R^2: 0.71
+Coefficients: {'msg_count': np.float64(0.5626185401570353), 'avg_msg_length': np.float64(0.0011424755747707434), 'total_word_count': np.float64(0.0015352494633185066)}
+Intercept: -0.22709071041349205
